@@ -1,0 +1,339 @@
+year,country,industry,action,asset,data_type,data_stolen,incident_id,sector,asset_clean,data_stolen_score
+2020,ES,541511,['error'],S - File,"['Personal', 'Payment']",Yes,1,Professional Services,File,3.0
+2016,FR,524210,['misuse'],,['Personal'],Yes,69,Finance & Insurance,,3.0
+2019,ES,92111,['malware'],S - Unknown,[],,82,Public Administration,Unknown,
+2014,AT,813940,['hacking'],,[],,103,Other Services,,
+2007,IE,622110,['physical'],S - Database,['Medical'],Potentially,115,Health Care,Database,2.0
+2013,EE,813940,['hacking'],S - Web application,[],,184,Other Services,Web application,
+2024,IT,51,['hacking'],S - Web application,"['Sensitive Personal', 'Personal']",Yes,228,Information,Web application,3.0
+2020,CY,518210,['error'],S - Database,['Personal'],Yes,362,Information,Database,3.0
+2013,DE,517110,['hacking'],S - Database,[],,390,Information,Database,
+2013,IE,522110,['error'],M - Documents,['Personal'],Yes,406,Finance & Insurance,Documents,3.0
+2013,CZ,523210,['hacking'],S - Web application,['Bank'],Yes,486,Finance & Insurance,Web application,3.0
+2013,CZ,541511,['hacking'],S - Web application,['Credentials'],Yes,542,Professional Services,Web application,3.0
+2020,ES,451110,['error'],S - Database,"['Personal', 'Credentials']",Yes,582,Retail Trade,Database,3.0
+2012,LU,92,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,594,Public Administration,Desktop,3.0
+2020,DE,541611,"['hacking', 'malware']",S - Unknown,"['Internal', 'Personal', 'Source code']",Yes,598,Professional Services,Unknown,3.0
+2025,FR,448310,['hacking'],S - Web application,['Unknown'],Yes,628,Retail Trade,Web application,3.0
+2019,FR,72,['error'],S - Database,"['Payment', 'Personal']",Yes,717,Accommodation & Food,Database,3.0
+2012,DE,92219,['hacking'],S - Database,"['Credentials', 'Personal', 'Internal']",Yes,740,Public Administration,Database,3.0
+2015,DE,521110,['hacking'],S - Database,"['Personal', 'Internal']",Yes,754,Finance & Insurance,Database,3.0
+2019,EE,511210,['error'],S - Database,['Personal'],Yes,771,Information,Database,3.0
+2014,NL,812990,['hacking'],S - Web application,[],,780,Other Services,Web application,
+2012,ES,511210,['hacking'],S - Unknown,"['Credentials', 'Personal']",,796,Information,Unknown,
+2025,FR,481111,"['hacking', 'social']",S - Web application,['Unknown'],Yes,806,Transportation,Web application,3.0
+2015,IE,923120,['error'],S - Web application,['Medical'],Yes,839,Public Administration,Web application,3.0
+2011,DE,511210,['hacking'],S - Unknown,['Personal'],Yes,854,Information,Unknown,3.0
+2017,SE,334220,"['hacking', 'social']",Other,[],,869,Manufacturing,Other,
+2013,RO,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,909,Public Administration,Desktop,3.0
+2013,IE,7112,['physical'],U - Laptop,['Personal'],Potentially,911,Arts & Entertainment,Laptop,2.0
+2017,CY,523,['hacking'],S - Database,['Secrets'],Yes,953,Finance & Insurance,Database,3.0
+2008,SE,522110,['hacking'],S - Web application,['Unknown'],Yes,975,Finance & Insurance,Web application,3.0
+2016,PL,511210,['hacking'],S - Web application,['Credentials'],Yes,978,Information,Web application,3.0
+2015,FR,927110,['hacking'],S - Web application,"['Credentials', 'Personal', 'System']",Yes,992,Public Administration,Web application,3.0
+2016,AT,48,['error'],S - Mail,['Other'],Yes,1001,Transportation,Mail,3.0
+2015,NL,92,['misuse'],S - Database,"['Personal', 'Internal']",Yes,1054,Public Administration,Database,3.0
+2012,IE,522110,['error'],,[],,1060,Finance & Insurance,,
+2016,CZ,541511,['hacking'],,"['Credentials', 'Personal']",Yes,1070,Professional Services,,3.0
+2015,IE,622110,['error'],M - Documents,"['Medical', 'Personal']",Yes,1087,Health Care,Documents,3.0
+2020,FR,325412,['error'],S - Database,"['Personal', 'Internal']",Yes,1152,Manufacturing,Database,3.0
+2013,DE,336111,"['hacking', 'malware']",S - Web application,['Payment'],Yes,1193,Manufacturing,Web application,3.0
+2013,NL,921,['hacking'],S - Web application,[],,1221,Public Administration,Web application,
+2013,FR,336120,['hacking'],S - Database,"['Credentials', 'Personal']",Yes,1291,Manufacturing,Database,3.0
+2012,BE,482,['error'],S - Database,['Personal'],Yes,1316,Transportation,Database,3.0
+2019,BE,5241,['physical'],M - Unknown,['Personal'],Potentially,1339,Finance & Insurance,Unknown,2.0
+2013,IE,522110,['physical'],T - ATM,['Payment'],Yes,1342,Finance & Insurance,ATM,3.0
+2013,ES,721110,['hacking'],S - Web application,['Payment'],Yes,1395,Accommodation & Food,Web application,3.0
+2015,IE,522110,['unknown'],,['Internal'],Yes,1452,Finance & Insurance,,3.0
+2016,IE,622110,['error'],M - Documents,['Medical'],Yes,1480,Health Care,Documents,3.0
+2014,DE,541511,['hacking'],S - Web application,['Personal'],Yes,1517,Professional Services,Web application,3.0
+2015,IT,511210,['hacking'],S - Unknown,"['Source code', 'Internal']",Yes,1526,Information,Unknown,3.0
+2013,PT,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,1556,Public Administration,Desktop,3.0
+2025,FR,448310,['hacking'],S - Web application,['Unknown'],Yes,1583,Retail Trade,Web application,3.0
+2016,DK,522110,['misuse'],M - Unknown,['Virtual currency'],Yes,1607,Finance & Insurance,Unknown,3.0
+2012,NL,517110,['hacking'],S - Unknown,"['Bank', 'Personal']",Yes,1621,Information,Unknown,3.0
+2015,DK,624190,['error'],M - Disk media,['Medical'],Yes,1627,Health Care,Disk media,3.0
+2021,FR,6221,['malware'],S - Unknown,[],,1654,Health Care,Unknown,
+2013,IE,522130,['physical'],U - Laptop,['Unknown'],Potentially,1670,Finance & Insurance,Laptop,2.0
+2012,LV,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,1682,Public Administration,Desktop,3.0
+2013,IE,921130,['error'],S - Mail,['Personal'],Yes,1688,Public Administration,Mail,3.0
+2016,IE,622110,['error'],M - Documents,['Medical'],Yes,1723,Health Care,Documents,3.0
+2012,NL,517110,"['error', 'hacking', 'misuse']",N - Router or switch,['Personal'],Yes,1726,Information,Router or switch,3.0
+2019,DE,518210,['hacking'],S - Database,['Personal'],Yes,1747,Information,Database,3.0
+2015,SE,522110,['hacking'],S - Web application,[],,1766,Finance & Insurance,Web application,
+2013,DE,611310,['hacking'],,"['Credentials', 'Internal']",Yes,1812,Education,,3.0
+2013,DK,519130,['hacking'],S - Web application,[],,1813,Information,Web application,
+2019,RO,481111,['misuse'],S - Database,['Personal'],Yes,1837,Transportation,Database,3.0
+2017,IE,518210,['error'],S - Web application,['Personal'],Potentially,1888,Information,Web application,2.0
+2012,IT,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,1915,Public Administration,Desktop,3.0
+2012,BE,517110,['unknown'],S - Database,['Credentials'],Yes,1956,Information,Database,3.0
+2013,BE,92811,['malware'],,['Unknown'],,1968,Public Administration,,
+2016,FI,511210,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,1992,Information,Web application,3.0
+2012,CY,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,2010,Public Administration,Desktop,3.0
+2021,DE,611310,['malware'],S - Mail,['Unknown'],Potentially,2046,Education,Mail,2.0
+2012,SE,481111,['hacking'],S - Web application,['Unknown'],Potentially,2057,Transportation,Web application,2.0
+2019,IE,622110,['error'],U - Laptop,['Unknown'],Potentially,2089,Health Care,Laptop,2.0
+2013,DE,813940,['hacking'],S - Web application,[],,2117,Other Services,Web application,
+2017,LT,921190,['error'],S - Web application,['Personal'],Yes,2124,Public Administration,Web application,3.0
+2015,DE,4231,['error'],S - Database,['Personal'],Yes,2150,Wholesale Trade,Database,3.0
+2013,CZ,512290,['hacking'],S - Web application,[],,2177,Information,Web application,
+2020,SK,923120,['error'],S - Database,['Medical'],Yes,2206,Public Administration,Database,3.0
+2013,DE,511210,['hacking'],S - Web application,[],,2248,Information,Web application,
+2017,NL,518,['misuse'],S - Database,['Unknown'],No,2266,Information,Database,1.0
+2013,LV,923130,['hacking'],,['Credentials'],Yes,2292,Public Administration,,3.0
+2013,IE,622110,['misuse'],P - Unknown,['Medical'],Yes,2365,Health Care,Unknown,3.0
+2016,CY,512100,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,2439,Information,Web application,3.0
+2017,IE,522130,['error'],U - Desktop,['Bank'],Yes,2476,Finance & Insurance,Desktop,3.0
+2013,SE,62,['error'],S - Web application,['Medical'],Potentially,2499,Health Care,Web application,2.0
+2013,DE,51721,['misuse'],S - Database,['Personal'],Yes,2527,Information,Database,3.0
+2013,IE,921120,['error'],S - Web application,['Other'],Potentially,2536,Public Administration,Web application,2.0
+2013,NL,517919,['error'],U - Laptop,"['Bank', 'Personal']",Potentially,2644,Information,Laptop,2.0
+2013,DK,921,['misuse'],M - Documents,['Classified'],Yes,2654,Public Administration,Documents,3.0
+2012,NL,51,['hacking'],,"['Personal', 'Internal']",Yes,2703,Information,,3.0
+2015,FR,515120,['hacking'],S - Web application,"['Payment', 'Personal']",Yes,2744,Information,Web application,3.0
+2013,DK,522320,['hacking'],N - Router or switch,['Other'],Yes,2747,Finance & Insurance,Router or switch,3.0
+2013,FR,511210,['hacking'],S - Database,['Credentials'],Yes,2754,Information,Database,3.0
+2019,DK,92,['physical'],U - Desktop or laptop,['Personal'],Yes,2802,Public Administration,Desktop or laptop,3.0
+2016,LT,511210,['error'],S - Database,['Personal'],Potentially,2815,Information,Database,2.0
+2012,IE,511210,['hacking'],S - Database,"['Bank', 'Personal']",Potentially,2848,Information,Database,2.0
+2014,IE,517110,['hacking'],S - Mail,['Credentials'],Yes,2864,Information,Mail,3.0
+2013,DE,922,['malware'],U - Desktop,['Credentials'],Yes,2916,Public Administration,Desktop,3.0
+2021,FR,541330,['malware'],S - Unknown,"['Personal', 'Bank', 'Internal']",Yes,2920,Professional Services,Unknown,3.0
+2021,IE,611310,['malware'],S - Unknown,['Unknown'],Potentially,2929,Education,Unknown,2.0
+2013,IE,515120,['hacking'],S - Mail,[],,2948,Information,Mail,
+2013,CZ,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,2982,Public Administration,Desktop,3.0
+2021,NL,561990,['hacking'],S - Unknown,['Personal'],Yes,3021,Admin & Support,Unknown,3.0
+2015,IE,621610,['error'],S - Web application,['Medical'],Yes,3027,Health Care,Web application,3.0
+2025,DE,315990,['hacking'],S - Web application,['Unknown'],Yes,3037,Manufacturing,Web application,3.0
+2012,DK,5416,['hacking'],,"['Personal', 'Internal']",Potentially,3055,Professional Services,,2.0
+2014,FI,522110,['hacking'],S - Web application,[],,3073,Finance & Insurance,Web application,
+2020,CY,518210,['error'],S - Database,['Personal'],Yes,3087,Information,Database,3.0
+2020,MT,541611,['error'],S - Database,['Personal'],Yes,3106,Professional Services,Database,3.0
+2015,DK,541512,['error'],S - Database,['Personal'],Yes,3174,Professional Services,Database,3.0
+2010,NL,517110,"['hacking', 'malware', 'social']",U - Desktop,['Personal'],Yes,3205,Information,Desktop,3.0
+2020,NL,561320,"['hacking', 'malware']",S - Unknown,"['Internal', 'Payment']",Yes,3229,Admin & Support,Unknown,3.0
+2025,FR,448140,['hacking'],S - Web application,['Unknown'],Yes,3257,Retail Trade,Web application,3.0
+2020,ES,522390,['hacking'],S - Unknown,"['Credentials', 'Virtual currency']",Yes,3308,Finance & Insurance,Unknown,3.0
+2013,IE,522110,['error'],M - Documents,['Personal'],Yes,3313,Finance & Insurance,Documents,3.0
+2015,NL,622110,['physical'],M - Disk drive,['Medical'],Potentially,3401,Health Care,Disk drive,2.0
+2020,ES,237310,['malware'],S - Database,['Internal'],Yes,3413,Construction,Database,3.0
+2013,LT,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,3444,Public Administration,Desktop,3.0
+2014,BE,922,['physical'],U - Laptop,[],,3496,Public Administration,Laptop,
+2016,DE,5241,['error'],,['Medical'],Yes,3507,Finance & Insurance,,3.0
+2013,CZ,515112,['hacking'],S - Web application,[],,3524,Information,Web application,
+2012,AT,926130,['hacking'],S - Unknown,"['Classified', 'Internal']",Yes,3554,Public Administration,Unknown,3.0
+2013,FR,551112,['hacking'],S - Web application,[],,3579,Management,Web application,
+2025,DK,339910,['hacking'],S - Web application,['Unknown'],Yes,3609,Manufacturing,Web application,3.0
+2013,IE,922190,['error'],S - Web application,['Personal'],Potentially,3638,Public Administration,Web application,2.0
+2014,FI,541511,['unknown'],S - DNS,[],,3695,Professional Services,DNS,
+2012,ES,92,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,3716,Public Administration,Desktop,3.0
+2012,IE,621112,['error'],M - Documents,['Medical'],Yes,3746,Health Care,Documents,3.0
+2013,IE,522110,['physical'],T - ATM,['Payment'],Yes,3762,Finance & Insurance,ATM,3.0
+2014,SE,511210,"['error', 'hacking']",S - Web application,[],,3858,Information,Web application,
+2020,PL,448,['error'],S - Database,"['Personal', 'Internal']",Yes,3882,Retail Trade,Database,3.0
+2012,SE,713990,['hacking'],,['Credentials'],Yes,3891,Arts & Entertainment,,3.0
+2018,AT,519,['hacking'],S - Web application,[],,3927,Information,Web application,
+2019,BG,541213,['hacking'],S - Database,['Personal'],Yes,3949,Professional Services,Database,3.0
+2012,IE,921,"['error', 'misuse']",M - Documents,"['Bank', 'Personal']",Yes,4015,Public Administration,Documents,3.0
+2018,DE,922140,['error'],M - Flash drive,['Personal'],Yes,4027,Public Administration,Flash drive,3.0
+2011,PL,511110,['hacking'],S - Web application,[],,4030,Information,Web application,
+2016,NL,922120,['error'],M - Disk drive,['Internal'],Potentially,4045,Public Administration,Disk drive,2.0
+2016,NL,921110,['error'],S - Database,['Personal'],Potentially,4096,Public Administration,Database,2.0
+2018,FI,621410,['error'],M - Documents,['Medical'],Yes,4100,Health Care,Documents,3.0
+2013,DE,517110,['hacking'],S - Web application,['Credentials'],Yes,4128,Information,Web application,3.0
+2010,BE,517110,"['hacking', 'malware', 'social']",U - Desktop,['Personal'],Yes,4143,Information,Desktop,3.0
+2020,NL,923120,['error'],S - Code repository,['Personal'],Yes,4172,Public Administration,Code repository,3.0
+2007,IE,921,['physical'],M - Disk drive,['Personal'],Potentially,4213,Public Administration,Disk drive,2.0
+2012,IE,522110,['misuse'],S - Mail,['Internal'],Yes,4215,Finance & Insurance,Mail,3.0
+2011,NL,511120,['misuse'],,['Internal'],Yes,4324,Information,,3.0
+2012,IE,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,4408,Public Administration,Desktop,3.0
+2016,IE,92,['misuse'],S - Database,['Personal'],Yes,4455,Public Administration,Database,3.0
+2015,DE,236210,"['malware', 'social']",S - ICS,"['Internal', 'System']",Potentially,4486,Construction,ICS,2.0
+2017,IE,488510,['error'],M - Documents,['Bank'],Potentially,4508,Transportation,Documents,2.0
+2020,CZ,622110,['malware'],S - Unknown,['Medical'],Potentially,4515,Health Care,Unknown,2.0
+2013,RO,518210,['hacking'],S - VM host,['Internal'],Yes,4525,Information,VM host,3.0
+2019,ES,921110,['malware'],S - Unknown,[],,4530,Public Administration,Unknown,
+2016,PL,92,['hacking'],S - Database,['Personal'],Yes,4584,Public Administration,Database,3.0
+2015,IE,921110,['misuse'],S - Database,['Personal'],Yes,4591,Public Administration,Database,3.0
+2002,IE,922120,['physical'],,['Personal'],Yes,4610,Public Administration,,3.0
+2018,IT,518210,['hacking'],S - Web application,"['Personal', 'Credentials']",Yes,4634,Information,Web application,3.0
+2014,BE,92,['hacking'],S - Web application,[],,4702,Public Administration,Web application,
+2018,DE,541720,"['malware', 'unknown']",S - Unknown,[],,4742,Professional Services,Unknown,
+2025,NL,442110,['hacking'],S - Web application,['Unknown'],Yes,4756,Retail Trade,Web application,3.0
+2012,DE,813940,['hacking'],S - Web application,['Personal'],Yes,4789,Other Services,Web application,3.0
+2012,IT,51913,['hacking'],S - Database,['Credentials'],Yes,4804,Information,Database,3.0
+2014,FR,51721,['hacking'],S - Web application,['Credentials'],Yes,4805,Information,Web application,3.0
+2013,BE,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,4811,Public Administration,Desktop,3.0
+2013,PL,921,['hacking'],,"['Personal', 'Internal']",Yes,4829,Public Administration,,3.0
+2025,NL,3361,['hacking'],S - Web application,['Unknown'],Yes,4849,Manufacturing,Web application,3.0
+2014,DE,621340,"['hacking', 'malware', 'social']",S - Web application,['Unknown'],No,4889,Health Care,Web application,1.0
+2012,DE,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,4890,Public Administration,Desktop,3.0
+2025,FR,541511,['hacking'],S - Web application,['Personal'],Yes,4906,Professional Services,Web application,3.0
+2019,LT,518210,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,5006,Information,Web application,3.0
+2012,DE,511199,['hacking'],,"['Classified', 'Personal']",Yes,5020,Information,,3.0
+2020,FR,511210,['error'],S - Database,['Personal'],Yes,5122,Information,Database,3.0
+2014,PL,523210,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,5148,Finance & Insurance,Web application,3.0
+2019,DE,522110,['error'],M - Documents,['Personal'],Yes,5195,Finance & Insurance,Documents,3.0
+2016,IE,622110,['error'],M - Documents,['Medical'],Yes,5213,Health Care,Documents,3.0
+2012,BE,522298,['hacking'],S - Database,['Personal'],Potentially,5265,Finance & Insurance,Database,2.0
+2016,DE,335931,['social'],P - Finance,[],,5292,Manufacturing,Finance,
+2020,FR,52,['error'],S - Web application,['Credentials'],Yes,5305,Finance & Insurance,Web application,3.0
+2014,IE,623110,['physical'],U - Laptop,['Personal'],Potentially,5307,Health Care,Laptop,2.0
+2021,SK,713290,['error'],S - Database,['Personal'],Yes,5316,Arts & Entertainment,Database,3.0
+2020,IT,923130,['error'],S - Web application,['Personal'],Yes,5319,Public Administration,Web application,3.0
+2019,DE,522110,['hacking'],S - Database,"['Unknown', 'Credentials']",Potentially,5453,Finance & Insurance,Database,2.0
+2012,IE,518210,['hacking'],S - Database,"['Credentials', 'Internal']",Yes,5488,Information,Database,3.0
+2014,FR,336411,"['hacking', 'malware']",U - Desktop,['Unknown'],Yes,5489,Manufacturing,Desktop,3.0
+2013,IE,926120,['error'],S - Web application,['Unknown'],Yes,5504,Public Administration,Web application,3.0
+2012,RO,22111,['hacking'],,['Personal'],Yes,5507,Utilities,,3.0
+2024,FR,511210,['hacking'],S - Web application,"['Medical', 'Personal']",Yes,5522,Information,Web application,3.0
+2013,IE,522130,['error'],S - Database,['Bank'],Yes,5525,Finance & Insurance,Database,3.0
+2020,ES,51791,['malware'],S - Unknown,"['Internal', 'Personal']",Yes,5575,Information,Unknown,3.0
+2016,FR,519130,['hacking'],S - Database,['Personal'],Yes,5576,Information,Database,3.0
+2010,IE,446110,['social'],S - Unknown,['Personal'],Yes,5634,Retail Trade,Unknown,3.0
+2013,FR,518210,['hacking'],S - Database,"['Credentials', 'Personal']",Yes,5656,Information,Database,3.0
+2015,DE,928110,['misuse'],,[],,5704,Public Administration,,
+2013,ES,928120,['hacking'],S - Web application,[],,5749,Public Administration,Web application,
+2013,DE,51721,['error'],M - Documents,['Personal'],Potentially,5768,Information,Documents,2.0
+2013,LV,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,5812,Public Administration,Desktop,3.0
+2019,SE,523130,['error'],S - Database,['Personal'],Yes,5867,Finance & Insurance,Database,3.0
+2014,IE,923130,['physical'],M - Documents,['Personal'],Yes,5916,Public Administration,Documents,3.0
+2013,ES,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,5968,Public Administration,Desktop,3.0
+2013,BE,921110,['error'],M - Disk media,['Internal'],Potentially,6006,Public Administration,Disk media,2.0
+2025,FR,448310,['hacking'],S - Web application,['Unknown'],Yes,6021,Retail Trade,Web application,3.0
+2025,FR,448310,['hacking'],S - Web application,['Unknown'],Yes,6028,Retail Trade,Web application,3.0
+2015,DE,621111,['physical'],U - Laptop,['Medical'],Potentially,6040,Health Care,Laptop,2.0
+2016,FI,523130,['hacking'],S - Database,['Personal'],Yes,6096,Finance & Insurance,Database,3.0
+2012,BE,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,6167,Public Administration,Desktop,3.0
+2015,SE,921,['error'],S - Database,"['Personal', 'Classified']",Yes,6174,Public Administration,Database,3.0
+2020,PT,518210,['hacking'],S - Database,"['Personal', 'Credentials']",Yes,6189,Information,Database,3.0
+2013,RO,517110,['hacking'],S - Web application,[],,6224,Information,Web application,
+2016,DE,622110,"['malware', 'social']",P - End-user or employee,['Unknown'],Potentially,6227,Health Care,End-user or employee,2.0
+2013,FR,517911,['social'],S - Database,['Personal'],Yes,6232,Information,Database,3.0
+2016,PL,517110,['hacking'],S - Web application,"['Bank', 'Personal', 'System', 'Other']",Yes,6327,Information,Web application,3.0
+2021,DE,445110,"['hacking', 'social']",S - Mail,"['Internal', 'Personal']",Yes,6341,Retail Trade,Mail,3.0
+2013,IE,522120,['physical'],T - ATM,['Payment'],Yes,6389,Finance & Insurance,ATM,3.0
+2019,DE,922120,['physical'],M - Documents,['Classified'],Yes,6398,Public Administration,Documents,3.0
+2020,BG,541511,['error'],S - Web application,['Personal'],Yes,6432,Professional Services,Web application,3.0
+2019,BE,813319,['error'],S - Database,['Personal'],Yes,6451,Other Services,Database,3.0
+2014,AT,551112,['hacking'],S - Web application,['Unknown'],Potentially,6499,Management,Web application,2.0
+2016,DE,519130,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,6509,Information,Web application,3.0
+2018,DE,541511,['hacking'],S - Web application,['Credentials'],Yes,6532,Professional Services,Web application,3.0
+2012,DK,51919,['hacking'],,['Personal'],Yes,6533,Information,,3.0
+2016,IT,522110,['hacking'],S - Unknown,['Personal'],Yes,6538,Finance & Insurance,Unknown,3.0
+2020,FR,517911,"['hacking', 'malware']",S - Proxy,['Internal'],Yes,6577,Information,Proxy,3.0
+2012,ES,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,6612,Public Administration,Desktop,3.0
+2018,DE,22111,['error'],U - Other,['Personal'],Yes,6637,Utilities,Other,3.0
+2013,IE,551111,['physical'],T - ATM,['Payment'],Yes,6677,Management,ATM,3.0
+2012,DE,6111,['physical'],M - Flash drive,['Personal'],Potentially,6714,Education,Flash drive,2.0
+2013,IE,561499,['misuse'],U - Telephone,['Payment'],Yes,6733,Admin & Support,Telephone,3.0
+2010,IE,621999,"['error', 'misuse']",M - Documents,['Medical'],Yes,6738,Health Care,Documents,3.0
+2013,DE,921,['hacking'],S - Web application,[],,6778,Public Administration,Web application,
+2014,DE,517110,['physical'],N - LAN,[],,6854,Information,LAN,
+2012,DE,5112,['hacking'],S - Web application,['Personal'],Yes,6902,Information,Web application,3.0
+2011,DE,561599,"['error', 'hacking']",S - Web application,['Personal'],Potentially,6973,Admin & Support,Web application,2.0
+2012,BE,518210,['hacking'],S - Database,['Unknown'],,6983,Information,Database,
+2012,HU,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,7010,Public Administration,Desktop,3.0
+2010,BE,517110,"['hacking', 'malware']",U - Desktop,"['Internal', 'Secrets', 'Unknown']",Yes,7031,Information,Desktop,3.0
+2013,SI,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,7049,Public Administration,Desktop,3.0
+2013,DE,813940,['hacking'],S - Web application,[],,7108,Other Services,Web application,
+2012,PL,454113,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,7120,Retail Trade,Web application,3.0
+2015,NL,517110,"['hacking', 'social']",P - Helpdesk,['Unknown'],Potentially,7124,Information,Helpdesk,2.0
+2007,FI,334210,"['social', 'unknown']",,['Digital certificate'],Yes,7231,Manufacturing,,3.0
+2016,NL,921110,['hacking'],S - Database,['Personal'],Yes,7260,Public Administration,Database,3.0
+2020,FR,621512,['error'],S - Database,"['Medical', 'Personal']",Yes,7266,Health Care,Database,3.0
+2013,DE,51721,['misuse'],S - Database,"['Bank', 'Personal']",Yes,7289,Information,Database,3.0
+2013,IE,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,7332,Public Administration,Desktop,3.0
+2016,CZ,517210,['misuse'],S - Database,['Personal'],Potentially,7355,Information,Database,2.0
+2013,FR,524113,['hacking'],S - Web application,[],,7364,Finance & Insurance,Web application,
+2021,ES,541512,"['hacking', 'malware']",S - Web application,"['Internal', 'Classified']",Yes,7372,Professional Services,Web application,3.0
+2013,IE,522110,['physical'],T - ATM,['Payment'],Yes,7398,Finance & Insurance,ATM,3.0
+2018,IE,311999,"['misuse', 'physical']",M - Documents,['Secrets'],Yes,7433,Manufacturing,Documents,3.0
+2013,ES,921110,['hacking'],S - Web application,['Unknown'],Potentially,7449,Public Administration,Web application,2.0
+2012,NL,622110,['error'],S - Web application,['Medical'],Yes,7467,Health Care,Web application,3.0
+2025,FR,448150,"['hacking', 'social']",S - Web application,['Unknown'],Yes,7495,Retail Trade,Web application,3.0
+2016,IE,923120,['error'],M - Documents,"['Medical', 'Payment']",Potentially,7517,Public Administration,Documents,2.0
+2015,DE,522320,['error'],,['Personal'],Yes,7532,Finance & Insurance,,3.0
+2015,BG,92,['hacking'],S - Web application,[],,7604,Public Administration,Web application,
+2014,IE,621999,['physical'],U - Laptop,['Medical'],Potentially,7612,Health Care,Laptop,2.0
+2013,IT,611110,"['hacking', 'unknown']",S - Web application,[],,7628,Education,Web application,
+2018,DE,5111,['error'],S - Web application,['Personal'],Yes,7679,Information,Web application,3.0
+2024,FI,511210,['hacking'],S - Web application,['Internal'],Yes,7733,Information,Web application,3.0
+2012,IT,81,['hacking'],,['Personal'],Yes,7745,Other Services,,3.0
+2019,DE,621610,['error'],U - Laptop,['Medical'],Yes,7785,Health Care,Laptop,3.0
+2013,IT,518,"['hacking', 'social']",S - Database,['Unknown'],Yes,7845,Information,Database,3.0
+2013,BG,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,7875,Public Administration,Desktop,3.0
+2025,FR,541511,['hacking'],S - Web application,['Unknown'],Yes,7881,Professional Services,Web application,3.0
+2016,IE,713290,['hacking'],S - Web application,[],,7883,Arts & Entertainment,Web application,
+2014,DK,92,['error'],S - Web application,['Personal'],Yes,7919,Public Administration,Web application,3.0
+2013,HU,922,"['hacking', 'malware', 'social']",U - Desktop,"['Internal', 'Unknown', 'System', 'Secrets']",Yes,7930,Public Administration,Desktop,3.0
+2020,ES,51,['hacking'],S - Database,"['Credentials', 'Personal']",Yes,8011,Information,Database,3.0
+2020,ES,511210,['hacking'],S - Web application,['Credentials'],Yes,8017,Information,Web application,3.0
+2013,FR,336111,['hacking'],S - Web application,['Credentials'],Potentially,8038,Manufacturing,Web application,2.0
+2014,IE,611310,['hacking'],,['Credentials'],Potentially,8099,Education,,2.0
+2017,MT,622110,"['misuse', 'social']",S - Database,['Medical'],Yes,8117,Health Care,Database,3.0
+2013,GR,928120,['hacking'],S - Mail,['Internal'],Yes,8123,Public Administration,Mail,3.0
+2019,CZ,511210,['hacking'],S - Remote access,['Credentials'],Yes,8135,Information,Remote access,3.0
+2018,IE,922120,['error'],M - Flash drive,['Personal'],Yes,8172,Public Administration,Flash drive,3.0
+2017,ES,921190,['hacking'],S - Web application,[],,8185,Public Administration,Web application,
+2012,DE,541512,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,8208,Professional Services,Web application,3.0
+2015,DK,522110,['error'],S - Web application,"['Credentials', 'System']",Yes,8263,Finance & Insurance,Web application,3.0
+2020,NL,92,['error'],M - Disk drive,['Medical'],Yes,8284,Public Administration,Disk drive,3.0
+2016,NL,519130,['hacking'],S - Web application,['Personal'],Yes,8323,Information,Web application,3.0
+2016,AT,3364,"['error', 'social']",P - Finance,[],,8331,Manufacturing,Finance,
+2013,IT,512199,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,8347,Information,Web application,3.0
+2016,NL,921,['misuse'],S - Database,['Personal'],Yes,8349,Public Administration,Database,3.0
+2007,SE,711,['error'],S - Web application,['Credentials'],Yes,8436,Arts & Entertainment,Web application,3.0
+2019,IE,622110,['error'],M - Documents,['Medical'],Yes,8439,Health Care,Documents,3.0
+2017,IT,517210,['error'],S - Web application,"['Credentials', 'Personal']",Yes,8446,Information,Web application,3.0
+2012,DE,611110,['physical'],M - Flash drive,['Personal'],Potentially,8509,Education,Flash drive,2.0
+2012,DE,928110,['physical'],M - Documents,['Classified'],Yes,8524,Public Administration,Documents,3.0
+2012,EE,2211,['error'],S - Database,['Personal'],Yes,8527,Utilities,Database,3.0
+2014,BE,928120,['malware'],,"['Classified', 'Internal']",Yes,8531,Public Administration,,3.0
+2010,DE,621111,['misuse'],U - Desktop,['Medical'],Yes,8533,Health Care,Desktop,3.0
+2012,NL,51919,['hacking'],S - Web application,['Credentials'],Yes,8544,Information,Web application,3.0
+2013,DE,813940,['hacking'],S - Web application,[],,8546,Other Services,Web application,
+2012,IE,928,['physical'],U - Laptop,['Personal'],Potentially,8548,Public Administration,Laptop,2.0
+2013,BE,561,"['hacking', 'social']",S - Database,['Personal'],Yes,8550,Admin & Support,Database,3.0
+2012,AT,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,8568,Public Administration,Desktop,3.0
+2014,IE,922120,['misuse'],S - Database,['Personal'],Yes,8575,Public Administration,Database,3.0
+2014,IE,622110,['error'],M - Documents,['Medical'],Yes,8585,Health Care,Documents,3.0
+2013,ES,813940,['hacking'],S - Web application,['Internal'],Yes,8628,Other Services,Web application,3.0
+2019,IE,621420,['social'],S - Mail,['Medical'],Yes,8680,Health Care,Mail,3.0
+2015,IE,622110,['error'],M - Documents,['Medical'],Yes,8686,Health Care,Documents,3.0
+2012,FR,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,8698,Public Administration,Desktop,3.0
+2025,IE,621320,['hacking'],S - Web application,"['Medical', 'Personal']",Yes,8703,Health Care,Web application,3.0
+2009,FI,928120,"['hacking', 'malware']",,['Unknown'],Yes,8733,Public Administration,,3.0
+2019,DE,921110,['error'],S - File,['Personal'],Yes,8734,Public Administration,File,3.0
+2013,LU,926110,['hacking'],S - Web application,[],,8746,Public Administration,Web application,
+2013,DE,541511,['hacking'],S - Web application,['Personal'],Potentially,8769,Professional Services,Web application,2.0
+2011,BE,488310,"['hacking', 'malware', 'physical', 'social']",U - Desktop,['Internal'],Yes,8814,Transportation,Desktop,3.0
+2012,FR,928110,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,8835,Public Administration,Desktop,3.0
+2014,IE,623110,['misuse'],M - Documents,['Medical'],Yes,8853,Health Care,Documents,3.0
+2013,DE,813910,['hacking'],U - Unknown,['Internal'],Yes,8857,Other Services,Unknown,3.0
+2015,DE,511210,['hacking'],S - Database,['Credentials'],Potentially,8866,Information,Database,2.0
+2021,SE,561311,['hacking'],S - Unknown,['Personal'],Yes,8895,Admin & Support,Unknown,3.0
+2017,FI,923120,['error'],S - Web application,[],,8897,Public Administration,Web application,
+2019,FR,54199,['error'],S - Database,['Personal'],Yes,8918,Professional Services,Database,3.0
+2012,CZ,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,8922,Public Administration,Desktop,3.0
+2021,LT,485310,['hacking'],S - Unknown,['Personal'],Yes,8984,Transportation,Unknown,3.0
+2018,FR,622110,['physical'],U - Laptop,['Medical'],Yes,8985,Health Care,Laptop,3.0
+2025,FR,511210,['hacking'],S - Web application,['Unknown'],Yes,9012,Information,Web application,3.0
+2014,NL,524126,['error'],M - Documents,['Medical'],Yes,9016,Finance & Insurance,Documents,3.0
+2012,BE,813940,"['misuse', 'social']",S - Unknown,['Classified'],Potentially,9137,Other Services,Unknown,2.0
+2012,LT,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,9156,Public Administration,Desktop,3.0
+2014,DK,541512,['misuse'],S - Web application,['Credentials'],Yes,9174,Professional Services,Web application,3.0
+2020,DE,532111,['error'],S - Database,['Personal'],Yes,9191,Real Estate,Database,3.0
+2018,FR,446130,['hacking'],S - Web application,['Personal'],Potentially,9267,Retail Trade,Web application,2.0
+2025,SE,511210,['malware'],S - Web application,['Personal'],Yes,9280,Information,Web application,3.0
+2012,PT,928120,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,9321,Public Administration,Desktop,3.0
+2008,SE,54,['hacking'],S - Mainframe,['Personal'],Yes,9352,Professional Services,Mainframe,3.0
+2016,NL,611310,['hacking'],S - Web application,"['Medical', 'Personal']",Yes,9497,Education,Web application,3.0
+2020,FR,511110,['error'],S - Database,['Personal'],Yes,9504,Information,Database,3.0
+2019,ES,54,['error'],S - File,['Personal'],Yes,9527,Professional Services,File,3.0
+2019,DE,54151,['hacking'],S - Web application,['Unknown'],Yes,9575,Professional Services,Web application,3.0
+2020,ES,611699,['error'],S - File,['Personal'],Yes,9592,Education,File,3.0
+2021,FR,92,['malware'],S - Unknown,['Unknown'],Potentially,9601,Public Administration,Unknown,2.0
+2020,FR,52,['hacking'],S - Web application,['Personal'],Yes,9713,Finance & Insurance,Web application,3.0
+2012,CY,92,"['hacking', 'malware', 'social']",U - Desktop,"['Classified', 'Internal', 'Credentials', 'Secrets', 'System']",Yes,9717,Public Administration,Desktop,3.0
+2013,ES,722511,['hacking'],S - Web application,"['Credentials', 'Personal']",Yes,9745,Accommodation & Food,Web application,3.0
