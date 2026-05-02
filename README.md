@@ -104,25 +104,4 @@ VCDB uses the **VERIS framework** (Vocabulary for Event Recording and Incident S
 
 > This report does not include incidents where EU jurisdiction could not be confirmed. Numbers are conservative.
 
----
 
-## Built With
-
-- `pptxgenjs` — presentation generation
-- VCDB validated incident dataset
-- GDPR Regulation (EU) 2016/679
-- Too much coffee
-
----
-
-## License
-
-This report is for internal use and educational purposes. VCDB data is available under a Creative Commons license. GDPR is, unfortunately, mandatory.
-
----
-
-```
-// The patterns are consistent.
-// The obligations are clear.
-// The next step is action.
-```
